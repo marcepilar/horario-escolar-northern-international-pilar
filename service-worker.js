@@ -1,5 +1,5 @@
 /* Northern International School — DEMO NO OFICIAL. No comparte caché con otros colegios. */
-const CACHE_NAME = 'marktech-horario-northern-pilar-demo-v1.0.0';
+const CACHE_NAME = 'marktech-horario-northern-pilar-demo-v1.0.1';
 const SHELL = [ './', './index.html','./manifest.webmanifest','./version.json',
   './icon-192.png','./icon-512.png','./apple-touch-icon.png','./banner-northern-international.png','./icon-maskable-512.png','./favicon-48.png', './qr-horario.png' ];
 self.addEventListener('install', event=>{

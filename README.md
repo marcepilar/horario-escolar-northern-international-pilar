@@ -1,23 +1,20 @@
-# Horario Escolar — Northern International School · V1.0.0 DE PRUEBA
+# Horario Escolar — Northern International School V1.0.1 DE PRUEBA
 
-PWA de demostración comercial independiente creada por MARK-TECH SOFTWARE. **NO OFICIAL**, sin patrocinio ni aprobación del colegio. Los 12 cursos (1.º a 6.º A/B), materias, turnos y horarios para 2027 son **ficticios** y no representan los horarios reales de la institución.
+Nueva identidad visual con banner azul/turquesa y escudo **recreado**, basado en referencias públicas a un símbolo N/I/S. **No es el escudo oficial ni implica aprobación de Northern International School.**
 
-**Identidad visual:** banner y monograma creados específicamente para la DEMO, NO son el escudo oficial ni sustituyen los recursos institucionales auténticos. Nombre propio preservado.
-
-## Funcionalidad
-- Selector de 12 cursos y divisiones A/B.
-- Seis idiomas, con traducción de días, materias, detalles, recreos, ayudas y menús.
-- Tres temas: Dark Blue, Claro y Dark.
-- «Hoy», resaltado de clase/recreo en curso y minutos restantes.
-- Compartir por WhatsApp y QR; ayuda e instalación en Android y iPhone.
+Modificaciones V1.0.1: banner y los íconos, actualización de versión, caché y HTML interactivo. Mantiene los seis idiomas, los tres temas, los doce cursos de demostración, horarios ficticios para 2027 y funciones de compartir.
 
 ## GitHub Pages
-1. Crear repositorio público `horario-escolar-northern-international-pilar` bajo `marcepilar`.
-2. Descomprimir el ZIP y subir **su contenido** a la raíz de `main` (no subir el ZIP como un solo archivo).
-3. Configurar Settings → Pages → Deploy from a branch → `main` → `/ (root)`.
-4. URL prevista una vez publicado: https://marcepilar.github.io/horario-escolar-northern-international-pilar/
-5. Probar en Samsung A71/iPhone y actualizar con HTTPS antes de aprobar como estable.
 
-El HTML interactivo incluye imágenes embebidas. En algunos Android, el visor de archivos muestra HTML como texto; la prueba más confiable es abrir la URL de GitHub Pages una vez publicada. Los QR incluidos antes de publicar son ilustrativos; la aplicación genera uno de la URL real cuando se abre por HTTPS con conexión.
+Repositorio previsto: `marcepilar/horario-escolar-northern-international-pilar`.
 
-**Estado:** V1.0.0 DE PRUEBA, aún sin publicar, sin autorización institucional.
+Descomprimir y cargar **todos los archivos en la raíz de `main`**; GitHub Pages se configura con `main / (root)`. La aplicación genera su QR real al abrirse en su dirección HTTPS.
+
+**No publicar ni declarar estable sin aprobación del usuario.** Verificar instalación en Samsung A71, service worker y recarga de preferencias en HTTPS.
+
+## Pruebas realizadas
+- Chromium automatizado con HTML autónomo: anchos de 320, 360 y 412 px; sin desbordes ni errores JavaScript detectados.
+- Temas Dark Blue, Claro y Dark a 360 px.
+- Seis idiomas: título, marca ✓, apertura de lunes y traducción de materias y recreos.
+- Comparación de fuente: mismos horarios y lógica que V1.0.0; solo banner, íconos, CSS y versión cambiados.
+- Pendientes: instalación física, persistencia con origen HTTPS y actualización real del service worker.

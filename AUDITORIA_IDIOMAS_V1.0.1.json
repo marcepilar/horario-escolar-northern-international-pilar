@@ -1,0 +1,44 @@
+[
+  {
+    "lang": "es",
+    "title": "Horario Escolar",
+    "mark": "✓",
+    "detail": "Lunes\n08:15 – 12:30\n5 clases\n›\n08:15\n09:00\nGeografía\n1.ª clase\n09:00\n09:45\nEducación Física\n2.ª clase\nRecreo · 09:45 a 10:00\n10:00\n10:45\nMatemática\n3.ª clase\n10:45\n11:30\nHistoria\n4.ª clase\nRecreo · 11:30 a 11:45\n11:45\n12:30\nPrácticas del Lenguaje\n5.ª clase",
+    "js_errors": []
+  },
+  {
+    "lang": "en",
+    "title": "School Timetable",
+    "mark": "✓",
+    "detail": "Monday\n08:15 – 12:30\n5 classes\n›\n08:15\n09:00\nGeography\nLesson 1\n09:00\n09:45\nPhysical Education\nLesson 2\nBreak · 09:45 to 10:00\n10:00\n10:45\nMathematics\nLesson 3\n10:45\n11:30\nHistory\nLesson 4\nBreak · 11:30 to 11:45\n11:45\n12:30\nLanguage Studies\nLesson 5",
+    "js_errors": []
+  },
+  {
+    "lang": "pt",
+    "title": "Horário Escolar",
+    "mark": "✓",
+    "detail": "Segunda-feira\n08:15 – 12:30\n5 aulas\n›\n08:15\n09:00\nGeografia\n1ª aula\n09:00\n09:45\nEducação Física\n2ª aula\nIntervalo · 09:45 às 10:00\n10:00\n10:45\nMatemática\n3ª aula\n10:45\n11:30\nHistória\n4ª aula\nIntervalo · 11:30 às 11:45\n11:45\n12:30\nPráticas da Linguagem\n5ª aula",
+    "js_errors": []
+  },
+  {
+    "lang": "fr",
+    "title": "Emploi du temps",
+    "mark": "✓",
+    "detail": "Lundi\n08:15 – 12:30\n5 cours\n›\n08:15\n09:00\nGéographie\nCours 1\n09:00\n09:45\nÉducation physique\nCours 2\nRécréation · 09:45 à 10:00\n10:00\n10:45\nMathématiques\nCours 3\n10:45\n11:30\nHistoire\nCours 4\nRécréation · 11:30 à 11:45\n11:45\n12:30\nPratiques langagières\nCours 5",
+    "js_errors": []
+  },
+  {
+    "lang": "de",
+    "title": "Stundenplan",
+    "mark": "✓",
+    "detail": "Montag\n08:15 – 12:30\n5 Stunden\n›\n08:15\n09:00\nGeografie\n1. Stunde\n09:00\n09:45\nSport\n2. Stunde\nPause · 09:45 bis 10:00\n10:00\n10:45\nMathematik\n3. Stunde\n10:45\n11:30\nGeschichte\n4. Stunde\nPause · 11:30 bis 11:45\n11:45\n12:30\nSprachpraxis\n5. Stunde",
+    "js_errors": []
+  },
+  {
+    "lang": "it",
+    "title": "Orario scolastico",
+    "mark": "✓",
+    "detail": "Lunedì\n08:15 – 12:30\n5 lezioni\n›\n08:15\n09:00\nGeografia\n1ª lezione\n09:00\n09:45\nEducazione fisica\n2ª lezione\nIntervallo · 09:45 alle 10:00\n10:00\n10:45\nMatematica\n3ª lezione\n10:45\n11:30\nStoria\n4ª lezione\nIntervallo · 11:30 alle 11:45\n11:45\n12:30\nPratiche linguistiche\n5ª lezione",
+    "js_errors": []
+  }
+]

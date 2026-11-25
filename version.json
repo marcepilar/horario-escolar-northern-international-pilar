@@ -1,5 +1,5 @@
 {
-  "version": "V1.0.0",
+  "version": "V1.0.1",
   "app": "Northern International School · Horario Escolar · DEMO NO OFICIAL",
   "updated": "2026-11-24",
   "status": "PRUEBA",
@@ -13,5 +13,5 @@
     "it"
   ],
   "courses": "1.º a 6.º, divisiones A y B; 12 cursos ficticios",
-  "notes": "Primera DEMO de prueba: identidad gráfica referencial, no oficial. Horarios ficticios para demostración, sin vinculación institucional."
+  "notes": "Rediseño exclusivo del banner y los íconos con emblema N/I/S referencial. Horarios ficticios y funciones sin cambios. No es escudo oficial."
 }
